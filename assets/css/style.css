@@ -617,7 +617,7 @@ p {
     height: 100%;
     background: -webkit-linear-gradient(left, #ffae0050 0%, #ffae0050 100%);
     background: -o-linear-gradient(left, #ffae0050 0%, #ffae0050 100%);
-    background: linear-gradient(to right, #ffae0050 0%, #ffae0050 100%); }
+    background: linear-gradient(to right, #ffae0075 0%, #FFCE0375 100%); }
 
 .header-countdown .single-count-content {
   padding: 0 45px;
